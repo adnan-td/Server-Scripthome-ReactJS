@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/admin/static/css/main.6abc9b13.css",
+    "main.js": "/admin/static/js/main.7a32c36e.js",
+    "static/js/787.5fa1756b.chunk.js": "/admin/static/js/787.5fa1756b.chunk.js",
+    "static/media/img6.jpg": "/admin/static/media/img6.d8e3dc6680f139c77717.jpg",
+    "static/media/img5.jpg": "/admin/static/media/img5.6ef6db913df93a631506.jpg",
+    "static/media/img1.jpg": "/admin/static/media/img1.49fe0f597d26ba39fd7a.jpg",
+    "static/media/img4.jpg": "/admin/static/media/img4.626e2119040318ba1413.jpg",
+    "static/media/img2.jpg": "/admin/static/media/img2.f7506bae6d36fa2721e2.jpg",
+    "static/media/img3.jpg": "/admin/static/media/img3.66c8153699de0e723ee6.jpg",
+    "static/media/pexels-bran-sodre-2622901.jpg": "/admin/static/media/pexels-bran-sodre-2622901.d4245d609a6d842f6718.jpg",
+    "index.html": "/admin/index.html",
+    "static/media/Eye.svg": "/admin/static/media/Eye.8a733098b5ed1ad5c2cd181ebe5f84f0.svg",
+    "static/media/Pencil.svg": "/admin/static/media/Pencil.27f26a0a7fa1871b57f24910f4c53f13.svg",
+    "main.6abc9b13.css.map": "/admin/static/css/main.6abc9b13.css.map",
+    "main.7a32c36e.js.map": "/admin/static/js/main.7a32c36e.js.map",
+    "787.5fa1756b.chunk.js.map": "/admin/static/js/787.5fa1756b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6abc9b13.css",
+    "static/js/main.7a32c36e.js"
+  ]
+}
