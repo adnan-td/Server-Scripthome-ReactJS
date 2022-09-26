@@ -11,6 +11,8 @@
 # production
 /build
 /public
+/admin
+/scripthome
 
 # misc
 .DS_Store
